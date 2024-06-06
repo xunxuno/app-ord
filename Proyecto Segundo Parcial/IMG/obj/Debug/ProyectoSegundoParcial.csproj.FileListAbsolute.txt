@@ -1,0 +1,51 @@
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.exe.config
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.exe
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.pdb
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.Properties.Resources.resources
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.exe
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.pdb
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.principalForm.resources
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.agregarRecargaForm.resources
+C:\Users\aleja\OneDrive\Desktop\Proyectos C#\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.informacionBancariaForm.resources
+C:\Users\USer\source\repos\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.exe.config
+C:\Users\USer\source\repos\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.exe
+C:\Users\USer\source\repos\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.pdb
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.agregarRecargaForm.resources
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.informacionBancariaForm.resources
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.métodosPago.resources
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.principalForm.resources
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.Properties.Resources.resources
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.GenerateResource.cache
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.exe
+C:\Users\USer\source\repos\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.pdb
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.exe.config
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.exe
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\bin\Debug\ProyectoSegundoParcial.pdb
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.agregarRecargaForm.resources
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.informacionBancariaForm.resources
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.principalForm.resources
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.Properties.Resources.resources
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.GenerateResource.cache
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.exe
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.pdb
+C:\Users\aleja\Downloads\PRO\ProyectoSegundoParcial\obj\Debug\ProyectoSegundoParcial.metodosPagoForm.resources
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\bin\Debug\ProyectoSegundoParcial.exe.config
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\bin\Debug\ProyectoSegundoParcial.exe
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\bin\Debug\ProyectoSegundoParcial.pdb
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.csproj.AssemblyReference.cache
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.agregarRecargaForm.resources
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.informacionBancariaForm.resources
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.metodosPagoForm.resources
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.principalForm.resources
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.Properties.Resources.resources
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.csproj.GenerateResource.cache
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.exe
+C:\Users\aleja\Downloads\Proyecto Segundo Parcial\obj\Debug\ProyectoSegundoParcial.pdb
